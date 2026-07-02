@@ -25,9 +25,12 @@ test/e2e/generated/bindata.go
 *.swp
 *.swo
 *~
-.vscode
 
 .DS_Store
 
 vendor/
 .qoder/repowiki/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
